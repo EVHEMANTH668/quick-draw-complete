@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+
+.modal{
+    width: 50%;
+    margin-left: 25%;
+}
+
+img{
+    width: 100%;
+}
+
+
+#score{
+    float: left;
+    margin-top: 15%;
+    color: green;
+}
+
+#timer{
+    float: right;
+    margin-top: 15%;
+    color: green;
+}
+
+#board{
+    width: 25%;
+    height: 50vh;
+    margin-left: 7%;
+    background-color: yellow;
+    border-radius: 20px;
+    border: 5px gray solid;
+}
+
+#label_drawn{
+    float: top;
+}
+
+h1{
+    background-color: violet;
+}
+
+#sketch{
+    float: right;
+    margin-top: 3px;
+}
